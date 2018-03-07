@@ -1,4 +1,4 @@
-# Data set description
+# Dataset description
 ## Identifiers
 - "activity": The type of activity 
 - "subject": The subject ID
