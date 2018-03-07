@@ -1,7 +1,7 @@
 ## Data set description
 # Identifiers
-"activity": The type of activity 
-"subject": The subject ID
+- "activity": The type of activity 
+- "subject": The subject ID
 
 # Activity column has 6 types as listed below.
 1. WALKING
